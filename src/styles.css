@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+html, body{
+    height: 100%;
+    width:100%;
+}
+
+body { 
+    background-image: url(https://static1.squarespace.com/static/542bf3ebe4b091f86ebeaa66/t/542ca7a6e4b0bd52e649db04/1412212649533/Curtains-opening.jpg?format=2500w);
+    background-position: center center;
+    background-repeat:  no-repeat;
+    background-attachment: fixed;
+    background-size:  cover;
+    background-color: #999;
+}
